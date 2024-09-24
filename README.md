@@ -1,5 +1,6 @@
 # NASA_SpaceApps_Workshop_2024
 ![alt text](https://github.com/jollygoodjacob/NASA_SpaceApps_Workshop_2024/blob/main/Space_Apps_Default_Logo.png) ![alt text](https://github.com/jollygoodjacob/NASA_SpaceApps_Workshop_2024/blob/main/UCM.png)
+
 This repository contains scripts and tutorials for NASA SpaceApps Challenge 2024 workshops at UC Merced.
 
 The NASA International Space Apps Challenge is the largest annual global hackathon. This two-day event creates innovation through international collaboration by providing an opportunity for participants to utilize NASA’s free and open data and its Space Agency Partners’ space-based data to address real-world problems on Earth and in space.
