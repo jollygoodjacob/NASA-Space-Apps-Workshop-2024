@@ -1,4 +1,4 @@
-# NASA_SpaceApps_Workshop_2024
+# NASA SpaceApps Workshop 2024 -  UC Merced
 <img src="https://github.com/jollygoodjacob/NASA_SpaceApps_Workshop_2024/blob/main/Space_Apps_Default_Logo.png" width= "500" />        <img src = "https://github.com/jollygoodjacob/NASA_SpaceApps_Workshop_2024/blob/main/UCM.png" width= "200" />
 
 This repository contains scripts and tutorials for NASA SpaceApps Challenge 2024 workshops at UC Merced.
