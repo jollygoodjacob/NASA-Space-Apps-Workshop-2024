@@ -1,5 +1,5 @@
 # NASA SpaceApps Workshop 2024 -  UC Merced
-<img src="https://github.com/jollygoodjacob/NASA_SpaceApps_Workshop_2024/blob/main/Space_Apps_Default_Logo.png" width= "500" />        <img src = "https://github.com/jollygoodjacob/NASA_SpaceApps_Workshop_2024/blob/main/UCM.png" width= "200" />
+<img src="https://github.com/jollygoodjacob/NASA_SpaceApps_Workshop_2024/blob/main/imgs/Space_Apps_Default_Logo.png" width= "500" />        <img src = "https://github.com/jollygoodjacob/NASA_SpaceApps_Workshop_2024/blob/main/imgs/UCM.png" width= "200" />
 
 Mentors: Jacob Nesslage (UCM, ES) and Adam Weingram (UCM, EECS)
 
